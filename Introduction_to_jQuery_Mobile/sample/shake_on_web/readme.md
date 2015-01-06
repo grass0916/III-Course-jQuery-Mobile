@@ -1,0 +1,1 @@
+This website is on 'http://www.html5rocks.com/en/tutorials/device/orientation/deviceorientationsample.html'.
